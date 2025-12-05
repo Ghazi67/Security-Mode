@@ -7,11 +7,11 @@ authors:
 description: |
   Auditing and Logging tool for Security Mode, handling logs with rotation and forwarding.
 
-license: MIT
+license: GPL-3.0
 
 targets:
   auditing-logging:
-    main: src/auditing-logging.cr
+    main: main.cr
 
 crystal: ">= 1.0.0"
 
