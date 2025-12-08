@@ -5,4 +5,4 @@
 > sudo rm -rf ~/.hackeros/Security-Mode/auditing-logging
 > sudo rm -rf ~/.hackeros/Security-Mode/module-runner
 > sudo rm -rf ~/.hackeros/Security-Mode/ui
-> sudo rm rf ~/.hackeros/Security-Mode/policy-manager
+> sudo rm -rf ~/.hackeros/Security-Mode/policy-manager
