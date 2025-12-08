@@ -1,4 +1,16 @@
 // curl
-> cd /usr/lib/HackerOS/
+> cd ~/.hackeros/Security-Mode
 > curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/core"
-> curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/"
+> curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/ui"
+> curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/module-runner"
+> curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/auditing-logging"
+> curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/policy-manager"
+> curl -L -o  "https://github.com/HackerOS-Linux-System/Security-Mode/releases/download/v0.1/security"
+> sudo chmod a+x core
+> sudo chmod a+x ui
+> sudo chmod a+x module-runner
+> sudo chmod a+x auditing-logging
+> sudo chmod a+x policy-manager
+> cd /usr/lib/HackerOS/
+> sudo mv /tmp/Security-Mode/Security-Mode /usr/lib/HackerOS/
+> sudo chmod a+x Security-Mode
