@@ -1,19 +1,15 @@
 name: security
-version: 0.1.0
+version: 0.2
 
 authors:
-  - HackerOS Team
-
-description: |
-  CLI tool for Security Mode, handling commands to interact with the core daemon via JSON files.
-
-license: GPL-3.0
-
-targets:
-  security:
-    main: main.cr
+  - HackerOS Team <hackeros068@gmail.com>
 
 crystal: ">= 1.0.0"
 
-dependencies:
-  # No external dependencies needed, as it uses standard Crystal libraries
+license: MIT
+
+targets:
+  security:
+    main: src/main.cr
+
+# No external dependencies needed for this basic implementation
