@@ -4,4 +4,5 @@
 
 >>> cd cli && crystal build src/main.cr --release
 >>> cd env && cargo build --release
->>> cd 
+>>> cd pentest && 
+>>> cd gui &&
