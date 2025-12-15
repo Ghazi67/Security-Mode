@@ -1,1 +1,2 @@
 #!/bin/bash
+cage /home/%u/.hackeros/Security-Mode/bin/gui --session
