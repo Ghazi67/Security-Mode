@@ -1,1 +1,11 @@
-
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Security Mode
+Comment=Narzędzie do autoryzowanych testów penetracyjnych i analizy malware w izolacji
+Exec=/home/%u/.hackeros/Security-Mode/bin/gui
+Icon=/usr/share/HackerOS/ICONS/security.png
+Terminal=false
+Categories=Security;Utility;System;
+StartupNotify=true
+Keywords=security;pentest;malware;analysis;sandbox;
